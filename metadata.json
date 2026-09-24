@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Copy of Aplicativo MPSP",
+  "description": "Application to generate legal investigation notification requests based on case data and individuals involved, replicating a Power Apps interface.",
+  "requestFramePermissions": []
+}
